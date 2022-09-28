@@ -5,17 +5,17 @@ footer {
     background-color: #45a1ff;
     color: #fff;
 }
-@media (max-width: 600px){
+@media (min-width: 800px){
      .div3 form {
         flex : 1;
-        order: 1;
+        order: 2;
         width: 100%;
     }
     
     .div3 table {
         margin-top: 20px;
         flex: 1;
-        order: 2;
+        order: 1;
         width: 100%;
     }
    
